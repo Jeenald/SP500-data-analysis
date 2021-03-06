@@ -46,7 +46,7 @@ This library is used for building the app on Streamlit.
 ### pip install numpy
 
 This library is used for Data Framing and Data Scrapping \
-We are going to use 'https://www.basketball-reference.com' website for fatching our data. 
+We are going to use 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies' website for fatching our data. 
 
 ### pip install pybase64v
 
